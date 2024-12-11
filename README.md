@@ -5,7 +5,6 @@ This project involves analyzing hospital data to uncover insights about patient 
 
 ## Features
 - Data cleaning and preprocessing of hospital records
-- Exploratory Data Analysis (EDA) to uncover trends and patterns
 - Visualizations to interpret data insights
 - Statistical analysis of patient and operational data
 
